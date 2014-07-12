@@ -1,0 +1,24 @@
+CACHE MANIFEST
+
+resources/startup.css
+resources/bootstrap.css.map
+resources/bootstrap.min.css
+resources/bootstrap.min.js
+resources/favicon.ico
+resources/logo.png
+
+images/facebook.png
+images/youtube.png
+images/reddit.png
+images/hackernews.png
+images/github.png
+images/trello.png
+images/steam.png
+images/mint.png
+images/omguw.png
+images/codecademy.png
+images/calendar.png
+images/evernote.png
+
+NETWORK:
+*
