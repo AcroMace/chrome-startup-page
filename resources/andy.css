@@ -1,0 +1,150 @@
+body {
+	color: #2e3436;
+	font-weight: 300;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	margin-bottom: 20px;
+}
+
+h1 {
+	font-weight: 300;
+}
+
+hr {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.col-lg-12 {
+	margin-left: 40%;
+}
+
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 128px;
+	width: 128px;
+	border-radius: 100%;
+	box-shadow: 0 0 0 0.618em rgba(0, 0, 0, 0.05);
+}
+
+#site-title {
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.jumbotron {
+	color: #eeeeec;
+	background-color: #204a87;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	letter-spacing: -2px;
+}
+
+.jumbotron h5 {
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	font-weight: 400;
+	opacity: 0.75;
+}
+
+.intro-text {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 20px;
+}
+
+.intro-text h1 {
+	letter-spacing: -1px;
+	font-size: 3em;
+}
+
+.intro-text p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: 300;
+}
+
+.projects img {
+	border-radius: 0.3em;
+	width: 100%;
+	max-width: 800px;
+}
+
+.project {
+	margin-bottom: 20px;
+}
+
+.description p, li, blockquote {
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+	font-weight: 300;
+	font-size: 1.2em;
+}
+
+.description li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.description img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.phone-screenshot {
+	width: 80%;
+	max-width: 320px;
+}
+
+.phone-screenshot-caption {
+	font-style: italic;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	max-width: 300px;
+	color: #888a85;
+}
+
+.image-landscape {
+	width: 90%;
+}
+
+.image-landscape-caption {
+	font-style: italic;
+	margin-left: 5%;
+	margin-right: 5%;
+	color: #888a85;
+}
+
+.image-landscape-small {
+	width: 50%;
+}
+
+.image-landscape-small-caption {
+	font-style: italic;
+	margin-left: 28%;
+	margin-right: 28%;
+	color: #888a85;
+}
+
+.image-portrait {
+	max-width: 50%;
+}
+
+.image-portrait-large {
+	max-width: 80%;
+}
+
+.youtube-video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
