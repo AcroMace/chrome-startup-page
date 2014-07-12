@@ -5,6 +5,7 @@ body {
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 	margin-bottom: 20px;
+	background-color: #eeeeec;
 }
 
 h1 {
